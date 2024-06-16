@@ -1,98 +1,101 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./Style.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-    
-
-    <title>E-Commerce</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="Style.css">
+    <title>Reino TCG</title>
+    <script src="Script.js" defer></script>
 </head>
+
 <body>
+
     <header>
-        <nav class="navbar navbar-expand-lg bg-body-tertiary">
-            <div class="container-fluid">
-              <a class="navbar-brand" href="#">E-Commerce</a>
-              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-              </button>
-              <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                  <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Página inicial</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="#">Produtos</a>
-                  </li>
-                  <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                      Itens
-                    </a>
-                    <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="#">Preços</a></li>
-                      <li><a class="dropdown-item" href="#">Tipos</a></li>
-                      <li><hr class="dropdown-divider"></li>
-                      <li><a class="dropdown-item" href="#">Coisas</a></li>
-                    </ul>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link disabled" aria-disabled="true">Desabilitado</a>
-                  </li>
-                </ul>
-                <form class="d-flex" role="search">
-                  <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                  <button class="btn btn-outline-success" type="submit">Procurar</button>
-                </form>
-              </div>
-            </div>
-          </nav>
+        <a href="#" class="logo"><i class='bx bxs-invader'></i>Reino TCG</a>
+
+        <ul class="navagação">
+            <li><a href="#">Yugioh</a></li>
+            <li><a href="#">Pokemon</a></li>
+            <li><a href="#">Magic</a></li>
+            <li><a href="#">Outros</a></li>
+        </ul>
+
+        <div class="header-icons">
+            <i class='bx bx-log-in'></i>
+            <i class='bx bx-cart'></i>
+            <div id="menu"><i class='bx bx-menu'></i></div>
+        </div>
+
     </header>
-    <main>
-        <div id="carouselExampleCaptions" class="carousel slide">
-            <div class="carousel-indicators">
-              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-            </div>
-            <div class="carousel-inner">
-              <div class="carousel-item active">
-                <img src="https://files.tecnoblog.net/wp-content/uploads/2021/05/dualsense-novas-cores.jpeg" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                  <h5>First slide label</h5>
-                  <p>Some representative placeholder content for the first slide.</p>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <img src="https://images.pexels.com/photos/2106216/pexels-photo-2106216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                  <h5>Second slide label</h5>
-                  <p>Some representative placeholder content for the second slide.</p>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <img src="https://media.istockphoto.com/id/1437701102/pt/foto/old-popular-game-console-with-joysticks.jpg?s=1024x1024&w=is&k=20&c=g8KLq3vnu3Hy9Y17IiUeoBJSi8w6uAfawpBlA8t9qi0=" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                  <h5>Third slide label</h5>
-                  <p>Some representative placeholder content for the third slide.</p>
-                </div>
-              </div>
-            </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
-              <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="visually-hidden">Next</span>
-            </button>
-          </div>
 
+    <section class="home">
+        <div class="home-img">
+            <img src="https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg" class="one">
+        </div>
+        <div class="home-text">
 
-    </main>
-    <footer>
-        
-    </footer>
+            <h1>Dragão Branco <br> De Olhos Azuis</h1>
+            <h5>Quantidade em estoque: 30 cartas</h5>
+            <h3>R$100,00</h3>
+            <a href="#" class="btn">Compre agora</a>
+
+        </div>
+    </section>
+
+    <div class="main">
+        <div class="row">
+            <li><img src="https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg"
+                    onclick="slider('https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg')">
+            </li>
+        </div>
+
+        <div class="row2">
+            <li><img src="https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg"
+                    onclick="slider('https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg')">
+            </li>
+        </div>
+
+        <div class="row3">
+            <li><img src="https://img.mypcards.com/img/1/30/magic_mt_024/magic_mt_024_pt.jpg"
+                    onclick="slider('https://img.mypcards.com/img/1/30/magic_mt_024/magic_mt_024_pt.jpg')">
+            </li>
+        </div>
+
+        <div class="row4">
+            <li><img src="https://img.mypcards.com/img/9/1665/digimon_p_050/digimon_p_050_en.jpg"
+                    onclick="slider('https://img.mypcards.com/img/9/1665/digimon_p_050/digimon_p_050_en.jpg')">
+            </li>
+        </div>
+
+        <div class="row5">
+            <li><img src="https://img.mypcards.com/img/6/1153/dbsuper_tb1_023/dbsuper_tb1_023_en.jpg"
+                    onclick="slider('https://img.mypcards.com/img/6/1153/dbsuper_tb1_023/dbsuper_tb1_023_en.jpg')">
+            </li>
+        </div>
+    </div>
+
+    <script>
+        function slider(anything) {
+            document.querySelector('.one').src = anything;
+        };
+
+        let menu = document.querySelector('#menu-icon');
+        let navbar = document.querySelector('.navbar');
+
+        menu.onclick = () => {
+            menu.classList.toggle('bx-x');
+            navbar.classList.toggle('open');
+        }
+    </script>
+
 </body>
+
 </html>
