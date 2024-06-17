@@ -49,12 +49,11 @@ main {
     display: flex;
     box-sizing: border-box;
     margin-top: var(--header-footer-height);
-    background-color: blue;
 }
 
 footer {
     height: var(--header-footer-height);
-    background-color: yellow;
+    border: 2px solid #fff;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -133,15 +132,16 @@ footer {
     width: 20%;
     justify-content: center;
     align-items: center;
-    background-color: green;
+
 }
 
 .home {
     display: flex;
     width: 60%;
     justify-content: center;
-    align-items: center;
-    background-color: orange;
+    background-color: cadetblue;
+    border-radius: 1%;
+    align-items: stretch;
 }
 
 .dinamica {
@@ -149,7 +149,7 @@ footer {
     width: 20%;
     justify-content: center;
     align-items: center;
-    background-color: brown;
+
 }
 
 main li img {
@@ -162,24 +162,34 @@ main li img {
 
 
 
+
+
 .home-img {
-    flex: 1;
+    display: flex;
+    width: 40%;
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+
 }
 
 .home-text {
-    flex: 1;
+    display: flex;
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: orangered;
+
 }
 
 .home-img img {
-    width: 150px;
+    width: 300px;
     height: auto;
     margin-left: 0;
 }
 
-.home-text {
-    flex: 1;
-    border: 2px solid #fff;
-}
+
 
 .home-text h1 {
     font-size: var(--h1-font);
@@ -202,21 +212,6 @@ main li img {
     margin-bottom: 35px;
 }
 
-.home-img {
-    flex: 1;
-    display: flex;
-    justify-content: center;
-    margin-right: -5rem;
-    border: 2px solid #fff;
-}
-
-.home-img img {
-    max-width: 100%;
-    width: auto;
-    height: auto;
-    margin-left: 0;
-    border: 2px solid #fff;
-}
 
 .btn {
     display: inline-block;
