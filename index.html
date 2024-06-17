@@ -17,71 +17,84 @@
 </head>
 
 <body>
-
     <header>
-        <a href="#" class="logo"><i class='bx bxs-invader'></i>Reino TCG</a>
-
-        <ul class="navagação">
-            <li><a href="#">Yugioh</a></li>
-            <li><a href="#">Pokemon</a></li>
-            <li><a href="#">Magic</a></li>
-            <li><a href="#">Outros</a></li>
-        </ul>
-
-        <div class="header-icons">
-            <i class='bx bx-log-in'></i>
-            <i class='bx bx-cart'></i>
-            <div id="menu"><i class='bx bx-menu'></i></div>
-        </div>
-
+        <nav class="navbar">
+            <div class="logo">
+                <a href="#" class="logo"><i class='bx bxs-invader'></i>Reino TCG</a>
+            </div>
+            <ul class="navagação">
+                <li><a href="#">Yugioh</a></li>
+                <li><a href="#">Pokemon</a></li>
+                <li><a href="#">Magic</a></li>
+                <li><a href="#">Outros</a></li>
+            </ul>
+            <div class="header-icons">
+                <i class='bx bx-log-in'></i>
+                <i class='bx bx-cart'></i>
+                <div id="menu"><i class='bx bx-menu'></i></div>
+            </div>
+        </nav>
     </header>
 
-    <section class="home">
-        <div class="home-img">
-            <img src="https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg" class="one">
+    <main>
+        <section class="tipos-cards">
+            <ul>
+                <li><img src="https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg"
+                        onclick="slider('https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg')">
+                </li>
+                <li><img src="https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg"
+                        onclick="slider('https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg')">
+                </li>
+                <li><img src="https://img.mypcards.com/img/1/30/magic_mt_024/magic_mt_024_pt.jpg"
+                        onclick="slider('https://img.mypcards.com/img/1/30/magic_mt_024/magic_mt_024_pt.jpg')">
+                </li>
+                <li><img src="https://img.mypcards.com/img/9/1665/digimon_p_050/digimon_p_050_en.jpg"
+                        onclick="slider('https://img.mypcards.com/img/9/1665/digimon_p_050/digimon_p_050_en.jpg')">
+                </li>
+                <li><img src="https://img.mypcards.com/img/6/1153/dbsuper_tb1_023/dbsuper_tb1_023_en.jpg"
+                        onclick="slider('https://img.mypcards.com/img/6/1153/dbsuper_tb1_023/dbsuper_tb1_023_en.jpg')">
+                </li>
+            </ul>
+        </section>
+
+        <section class="home">
+            <div class="home-img">
+                <img src="https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg" class="one">
+            </div>
+            <div class="home-text">
+                <h1>Dragão Branco <br> De Olhos Azuis</h1>
+                <h5>Quantidade em estoque: 30 cartas</h5>
+                <h3>R$100,00</h3>
+                <a href="#" class="btn">Compre agora</a>
+            </div>
+        </section>
+        <section class="dinamica">
+            <ul>
+                <li><img src="https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg"
+                        onclick="slider('https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg')">
+                </li>
+                <li><img src="https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg"
+                        onclick="slider('https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg')">
+                </li>
+                <li><img src="https://img.mypcards.com/img/1/30/magic_mt_024/magic_mt_024_pt.jpg"
+                        onclick="slider('https://img.mypcards.com/img/1/30/magic_mt_024/magic_mt_024_pt.jpg')">
+                </li>
+                <li><img src="https://img.mypcards.com/img/9/1665/digimon_p_050/digimon_p_050_en.jpg"
+                        onclick="slider('https://img.mypcards.com/img/9/1665/digimon_p_050/digimon_p_050_en.jpg')">
+                </li>
+                <li><img src="https://img.mypcards.com/img/6/1153/dbsuper_tb1_023/dbsuper_tb1_023_en.jpg"
+                        onclick="slider('https://img.mypcards.com/img/6/1153/dbsuper_tb1_023/dbsuper_tb1_023_en.jpg')">
+                </li>
+            </ul>
+        </section>
+
+    </main>
+
+    <footer>
+        <div class="rodapé">
+            <h3>Rodapé</h3>
         </div>
-        <div class="home-text">
-
-            <h1>Dragão Branco <br> De Olhos Azuis</h1>
-            <h5>Quantidade em estoque: 30 cartas</h5>
-            <h3>R$100,00</h3>
-            <a href="#" class="btn">Compre agora</a>
-
-        </div>
-    </section>
-
-    <div class="main">
-        <div class="row">
-            <li><img src="https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg"
-                    onclick="slider('https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg')">
-            </li>
-        </div>
-
-        <div class="row2">
-            <li><img src="https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg"
-                    onclick="slider('https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg')">
-            </li>
-        </div>
-
-        <div class="row3">
-            <li><img src="https://img.mypcards.com/img/1/30/magic_mt_024/magic_mt_024_pt.jpg"
-                    onclick="slider('https://img.mypcards.com/img/1/30/magic_mt_024/magic_mt_024_pt.jpg')">
-            </li>
-        </div>
-
-        <div class="row4">
-            <li><img src="https://img.mypcards.com/img/9/1665/digimon_p_050/digimon_p_050_en.jpg"
-                    onclick="slider('https://img.mypcards.com/img/9/1665/digimon_p_050/digimon_p_050_en.jpg')">
-            </li>
-        </div>
-
-        <div class="row5">
-            <li><img src="https://img.mypcards.com/img/6/1153/dbsuper_tb1_023/dbsuper_tb1_023_en.jpg"
-                    onclick="slider('https://img.mypcards.com/img/6/1153/dbsuper_tb1_023/dbsuper_tb1_023_en.jpg')">
-            </li>
-        </div>
-    </div>
-
+    </footer>
     <script>
         function slider(anything) {
             document.querySelector('.one').src = anything;
