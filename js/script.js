@@ -1,11 +1,22 @@
-function slider(anything) {
-    document.querySelector('.one').src = anything;
-};
+document.addEventListener("DOMContentLoaded", () => {
+    const links = document.querySelectorAll(".navbar a");
+    links.forEach(link => {
+        link.addEventListener("click", function (e) {
+            e.preventDefault();
+            const pagina = this.getAttribute("data-page");
+            carregarPagina(pagina);
+        });
+    });
 
-let menu = document.querySelector('#menu-icon');
-let navbar = document.querySelector('.navbar');
+    function carregarPagina(pagina) {
+        fetch(pagina)
+            .then(resposta => resposta.text())
+            .then(dados => {
+                document.querySelector(".main-content").innerHTML = dados;
+            })
+            .catch(erro => console.error("Erro ao carregar a página:", erro));
+    }
 
-menu.onclick = () => {
-    menu.classList.toggle('bx-x');
-    navbar.classList.toggle('open');
-}      
+    // Carregar página inicial (opcional)
+    carregarPagina("pages/home.html");
+});

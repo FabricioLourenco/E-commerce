@@ -84,14 +84,14 @@ footer {
     margin-left: 10px;
 }
 
-.navagação {
+.navegacao {
     list-style-type: none;
     display: flex;
     margin: 0 auto;
     padding: 0;
 }
 
-.navagação a {
+.navegacao a {
     color: var(--other-color);
     font-size: 1rem;
     font-weight: 500;
@@ -99,7 +99,8 @@ footer {
     transition: a .55s ease;
 }
 
-.navagação a:hover {
+.navegacao a:hover {
+
     color: var(--main-color);
 }
 
@@ -120,6 +121,7 @@ footer {
     font-size: 28px;
     cursor: pointer;
     transition: all .5s ease;
+    color: var(--text-color);
 }
 
 .header-icons i:hover {
@@ -132,100 +134,4 @@ footer {
     width: 20%;
     justify-content: center;
     align-items: center;
-
-}
-
-.home {
-    display: flex;
-    width: 60%;
-    justify-content: center;
-    background-color: cadetblue;
-    border-radius: 1%;
-    align-items: stretch;
-}
-
-.dinamica {
-    display: flex;
-    width: 20%;
-    justify-content: center;
-    align-items: center;
-
-}
-
-main li img {
-    width: 100px;
-    height: auto;
-    max-width: 100%;
-    justify-content: space-between;
-    border-radius: 5%;
-}
-
-
-
-
-
-.home-img {
-    display: flex;
-    width: 40%;
-    justify-content: center;
-    align-items: center;
-    background-color: orange;
-
-}
-
-.home-text {
-    display: flex;
-    width: 60%;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    background-color: orangered;
-
-}
-
-.home-img img {
-    width: 300px;
-    height: auto;
-    margin-left: 0;
-}
-
-
-
-.home-text h1 {
-    font-size: var(--h1-font);
-    line-height: 1.2;
-    margin-bottom: 2px;
-
-}
-
-.home-text h5 {
-    color: #ffffff99;
-    font-size: 14px;
-    font-weight: 400;
-    margin-bottom: 60px;
-}
-
-.home-text h3 {
-    font-size: 40px;
-    font-weight: 700;
-    letter-spacing: 2px;
-    margin-bottom: 35px;
-}
-
-
-.btn {
-    display: inline-block;
-    padding: 15px 70px;
-    font-size: 16px;
-    font-weight: 500;
-    background: transparent;
-    border: solid 2px var(--text-color);
-    transition: all.55 ease;
-    color: #fff;
-}
-
-.btn:hover {
-    background: var(--text-color);
-    border: 2px solid var(--text-color);
-    color: #000;
 }
