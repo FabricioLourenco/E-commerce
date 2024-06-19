@@ -1,53 +1,89 @@
 <link rel="stylesheet" href="../css/home.css">
 
-<section class="tipos-cards">
-        <ul>
-                <li><img src="https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg"
-                                onclick="slider('https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg')">
-                </li>
-                <li><img src="https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg"
-                                onclick="slider('https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg')">
-                </li>
-                <li><img src="https://img.mypcards.com/img/1/30/magic_mt_024/magic_mt_024_pt.jpg"
-                                onclick="slider('https://img.mypcards.com/img/1/30/magic_mt_024/magic_mt_024_pt.jpg')">
-                </li>
-                <li><img src="https://img.mypcards.com/img/9/1665/digimon_p_050/digimon_p_050_en.jpg"
-                                onclick="slider('https://img.mypcards.com/img/9/1665/digimon_p_050/digimon_p_050_en.jpg')">
-                </li>
-                <li><img src="https://img.mypcards.com/img/6/1153/dbsuper_tb1_023/dbsuper_tb1_023_en.jpg"
-                                onclick="slider('https://img.mypcards.com/img/6/1153/dbsuper_tb1_023/dbsuper_tb1_023_en.jpg')">
-                </li>
-        </ul>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css" />
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+<section class="main">
+        <div class="container-horizontal">
+                <section class="tipos-cards">
+                        <ul>
+                                <li><img src="https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg">
+                                </li>
+                                <li><img src="https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg">
+                                </li>
+                                <li><img src="https://img.mypcards.com/img/1/30/magic_mt_024/magic_mt_024_pt.jpg"></li>
+                                <li><img src="https://img.mypcards.com/img/9/1665/digimon_p_050/digimon_p_050_en.jpg">
+                                </li>
+                                <li><img src="https://img.mypcards.com/img/6/1153/dbsuper_tb1_023/dbsuper_tb1_023_en.jpg">
+                                </li>
+                        </ul>
+                </section>
+
+                <section class="home">
+                        <div class="home-img">
+                                <img src="https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg"
+                                        class="one">
+                        </div>
+                        <div class="home-text">
+                                <h1>Dragão Branco <br> De Olhos Azuis</h1>
+                                <h5>Quantidade em estoque: 30 cartas</h5>
+                                <h3>R$100,00</h3>
+                                <a href="#" class="btn">Compre agora</a>
+                        </div>
+                </section>
+
+                <section class="dinamica">
+                        <ul>
+                                <li><img src="https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg">
+                                </li>
+                                <li><img src="https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg">
+                                </li>
+                                <li><img src="https://img.mypcards.com/img/1/30/magic_mt_024/magic_mt_024_pt.jpg"></li>
+                                <li><img src="https://img.mypcards.com/img/9/1665/digimon_p_050/digimon_p_050_en.jpg">
+                                </li>
+                                <li><img src="https://img.mypcards.com/img/6/1153/dbsuper_tb1_023/dbsuper_tb1_023_en.jpg">
+                                </li>
+                        </ul>
+                </section>
+        </div>
+
+        <div class="container-vertical">
+                <section class="novidades">
+                        <h1>Texto</h1>
+                        <p>Conteúdo específico.</p>
+
+                        <h1>Adicionar Documento</h1>
+                        <form id="formAdicionar">
+                                <label for="docId">ID do Documento:</label>
+                                <input type="text" id="docId" name="docId" required><br><br>
+                                <label for="titulo">Título:</label>
+                                <input type="text" id="titulo" name="titulo" required><br><br>
+                                <label for="conteudo">Conteúdo:</label>
+                                <textarea id="conteudo" name="conteudo" required></textarea><br><br>
+                                <button type="submit">Adicionar Documento</button>
+                        </form>
+
+                        <h1>Operações CRUD</h1>
+                        <label for="docIdCrud">ID do Documento:</label>
+                        <input type="text" id="docIdCrud" name="docIdCrud" required><br><br>
+                        <button id="lerDoc">Ler Documento</button>
+                        <button id="atualizarDoc">Atualizar Documento</button>
+                        <button id="excluirDoc">Excluir Documento</button>
+
+                        <div id="saida"></div>
+
+                </section>
+                <section class="pacotes">
+                        <h1>Texto</h1>
+                        <p>Conteúdo específico.</p>
+                </section>
+                <section class="informacoes">
+                        <h1>Texto</h1>
+                        <p>Conteúdo específico.</p>
+                </section>
+        </div>
 </section>
 
-<section class="home">
-        <div class="home-img">
-                <img src="https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg" class="one">
-        </div>
-        <div class="home-text">
-                <h1>Dragão Branco <br> De Olhos Azuis</h1>
-                <h5>Quantidade em estoque: 30 cartas</h5>
-                <h3>R$100,00</h3>
-                <a href="#" class="btn">Compre agora</a>
-        </div>
-</section>
-
-<section class="dinamica">
-        <ul>
-                <li><img src="https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg"
-                                onclick="slider('https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg')">
-                </li>
-                <li><img src="https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg"
-                                onclick="slider('https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg')">
-                </li>
-                <li><img src="https://img.mypcards.com/img/1/30/magic_mt_024/magic_mt_024_pt.jpg"
-                                onclick="slider('https://img.mypcards.com/img/1/30/magic_mt_024/magic_mt_024_pt.jpg')">
-                </li>
-                <li><img src="https://img.mypcards.com/img/9/1665/digimon_p_050/digimon_p_050_en.jpg"
-                                onclick="slider('https://img.mypcards.com/img/9/1665/digimon_p_050/digimon_p_050_en.jpg')">
-                </li>
-                <li><img src="https://img.mypcards.com/img/6/1153/dbsuper_tb1_023/dbsuper_tb1_023_en.jpg"
-                                onclick="slider('https://img.mypcards.com/img/6/1153/dbsuper_tb1_023/dbsuper_tb1_023_en.jpg')">
-                </li>
-        </ul>
-</section>
+<script src="../js/home.js"></script>

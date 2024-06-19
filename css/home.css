@@ -1,27 +1,79 @@
+.main {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.container-horizontal {
+    display: flex;
+    width: 100%;
+    background-color: white;
+}
+
+.container-vertical {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    height: 700px;
+    background-color: burlywood;
+}
+
+.tipos-cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    background-color: crimson;
+}
+
 .home {
     display: flex;
-    width: 60%;
     justify-content: center;
+    align-items: stretch;
+    width: 60%;
     background-color: cadetblue;
     border-radius: 1%;
-    align-items: stretch;
 }
 
 .dinamica {
     display: flex;
-    width: 20%;
     justify-content: center;
     align-items: center;
-
+    width: 20%;
+    background-color: chartreuse;
 }
 
-main li img {
-    width: 100px;
-    height: auto;
-    max-width: 100%;
-    justify-content: space-between;
-    border-radius: 5%;
+.novidades {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: goldenrod;
+    width: 100%;
+    height: 33%;
 }
+
+.pacotes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: violet;
+    width: 100%;
+    height: 33%;
+}
+
+.informacoes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    width: 100%;
+    height: 34%;
+}
+
+
+
+
+
 
 
 .home-img {
@@ -49,8 +101,6 @@ main li img {
     margin-left: 0;
 }
 
-
-
 .home-text h1 {
     font-size: var(--h1-font);
     line-height: 1.2;
@@ -71,7 +121,6 @@ main li img {
     letter-spacing: 2px;
     margin-bottom: 35px;
 }
-
 
 .btn {
     display: inline-block;
