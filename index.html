@@ -12,35 +12,98 @@
         href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/home.css">
+
     <title>Reino TCG</title>
-    <script src="js/script.js" defer></script>
-    <script src="https://cdn.jsdelivr.net/npm/pouchdb@7.2.1/dist/pouchdb.min.js"></script>
+    <script src="js/pouchDb.js" defer></script>
+
 </head>
 
 <body>
     <header>
         <nav class="navbar">
             <div class="logo">
-                <a class="logo" href="pages/home.html" data-page="pages/home.html"><i class='bx bxs-invader'></i>Reino
+                <a class="logo" href="index.html"><i class='bx bxs-invader'></i>Reino
                     TCG</a>
             </div>
             <ul class="navegacao">
-                <li><a href="pages/yugioh.html" data-page="pages/yugioh.html">Yugioh</a></li>
-                <li><a href="pages/pokemon.html" data-page="pages/pokemon.html">Pokemon</a></li>
-                <li><a href="pages/magic.html" data-page="pages/magic.html">Magic</a></li>
-                <li><a href="pages/digimon.html" data-page="pages/digimon.html">Digimon</a></li>
-                <li><a href="pages/dragonBall.html" data-page="pages/dragonBall.html">Dragon Ball</a></li>
+                <li><a href="pages/yugioh.html">Yugioh</a></li>
+                <li><a href="pages/pokemon.html">Pokemon</a></li>
+                <li><a href="pages/magic.html">Magic</a></li>
+                <li><a href="pages/digimon.html">Digimon</a></li>
+                <li><a href="pages/dragonBall.html">Dragon Ball</a></li>
             </ul>
             <div class="header-icons">
 
-                <a href="pages/login.html" data-page="pages/login.html"><i class='bx bx-log-in'></i></a>
-                <a href="pages/compras.html" data-page="pages/compras.html"><i class='bx bx-cart'></i></a>
+                <a href="pages/login.html"><i class='bx bx-log-in'></i></a>
+                <a href="pages/compras.html"><i class='bx bx-cart'></i></a>
                 <div id="menu"><i class='bx bx-menu'></i></div>
             </div>
         </nav>
     </header>
 
-    <main class="main-content">
+    <main>
+        <div class="home">
+            <div class="carrosel-slide" id="slide1">
+                <div class="content">
+                    <h2>Slide 1</h2>
+                    <p>Informações sobre o slide 1.</p>
+                </div>
+            </div>
+            <div class="carrosel-slide" id="slide2">
+                <div class="content">
+                    <h2>Slide 2</h2>
+                    <p>Informações sobre o slide 2.</p>
+                </div>
+            </div>
+            <div class="carrosel-slide" id="slide3">
+                <div class="content">
+                    <h2>Slide 3</h2>
+                    <p>Informações sobre o slide 3.</p>
+                </div>
+            </div>
+            <div class="carrosel-slide" id="slide4">
+                <div class="content">
+                    <h2>Slide 4</h2>
+                    <p>Informações sobre o slide 4.</p>
+                </div>
+            </div>
+            <div class="carrosel-slide" id="slide5">
+                <div class="content">
+                    <h2>Slide 5</h2>
+                    <p>Informações sobre o slide 5.</p>
+                </div>
+            </div>
+
+            <button class="prev" onclick="prevSlide()">&#10094;</button>
+            <button class="next" onclick="nextSlide()">&#10095;</button>
+        </div>
+
+        <div class="novidades">
+            <h1>Texto</h1>
+            <p>Conteúdo específico.</p>
+        </div>
+        <div class="pacotes">
+            <ul>
+                <li><img src="https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg">
+                </li>
+                <li><img
+                        src="https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg">
+                </li>
+                <li><img src="https://img.mypcards.com/img/1/30/magic_mt_024/magic_mt_024_pt.jpg"></li>
+                <li><img src="https://img.mypcards.com/img/9/1665/digimon_p_050/digimon_p_050_en.jpg">
+                </li>
+                <li><img src="https://img.mypcards.com/img/6/1153/dbsuper_tb1_023/dbsuper_tb1_023_en.jpg">
+                </li>
+            </ul>
+        </div>
+        <div class="informacoes">
+            <h1>Texto</h1>
+            <p>Conteúdo específico.</p>
+        </div>
+
+
+
     </main>
 
     <footer>
@@ -48,7 +111,7 @@
             <h3>Rodapé</h3>
         </div>
     </footer>
-    <script src="./js/app.js"></script>
+    <script src="./js/script.js"></script>
 </body>
 
 </html>

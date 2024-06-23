@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     var db = new PouchDB('reinotcg');
     var remoteCouch = 'http://127.0.0.1:5984/reinotcg';
-
+    debugger
     db.sync(remoteCouch, {
         live: true,
         retry: true
@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
             console.error('Replicação pausada devido a um erro:', err);
             // Adicione lógica aqui para lidar com o erro de replicação
         } else {
-            console.log('Replicação pausada (por exemplo, replicação atualizada, usuário ficou offline)');
+            console.log('Replicação pausada (por exemplo, replicação atualizada, usuário ficou offline)' + err);
         }
     }).on('active', function () {
         console.log('Replicação retomada (por exemplo, novas mudanças replicando, usuário voltou online)');
@@ -69,36 +69,4 @@ document.addEventListener('DOMContentLoaded', function () {
             console.error('Erro ao excluir documento: ', err);
         });
     }
-
-    // Função para carregar página HTML dinamicamente //
-
-    function carregarPagina(pagina) {
-        var mainContent = document.querySelector('.main-content');
-        fetch(pagina)
-            .then(response => response.text())
-            .then(html => {
-                mainContent.innerHTML = html;
-                adicionarEventListenersFormularios();
-            })
-            .catch(error => console.error('Erro ao carregar página:', error));
-    }
-
-    // Adiciona event listeners aos formulários //
-
-    function adicionarEventListenersFormularios() {
-        var forms = document.querySelectorAll('form');
-        forms.forEach(form => {
-            form.addEventListener('submit', function (event) {
-                event.preventDefault();
-                var docId = form.querySelector('#docId').value;
-                var titulo = form.querySelector('#titulo').value;
-                var conteudo = form.querySelector('#conteudo').value;
-                criarDocumento(docId, titulo, conteudo);
-            });
-        });
-    }
-
-    // Carregar a página inicial
-
-    carregarPagina('pages/home.html');
 });
