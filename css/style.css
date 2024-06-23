@@ -23,8 +23,7 @@ html {
 }
 
 body {
-    background-color: #1d2631;
-    background: url('https://img.freepik.com/fotos-premium/imagens-de-design-de-fundo-abstrato-papel-de-parede-gerado-por-ia_643360-133228.jpg') no-repeat center center fixed;
+    background-color: #1d1f2f;
     background-size: cover;
     color: var(--text-color);
     display: flex;
@@ -52,7 +51,6 @@ main {
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
-
     margin-bottom: var(--spacing);
 }
 
