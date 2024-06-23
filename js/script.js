@@ -1,25 +1,23 @@
-let slideIndex = 0;
+let currentSlide = 0;
 const slides = document.querySelectorAll('.carrosel-slide');
-const prevBtn = document.querySelector('.prev');
-const nextBtn = document.querySelector('.next');
 
-function showSlide(n) {
+function showSlide(index) {
     slides.forEach(slide => slide.classList.remove('active'));
-    if (n < 0) {
-        slideIndex = slides.length - 1;
-    } else if (n >= slides.length) {
-        slideIndex = 0;
-    }
-    slides[slideIndex].classList.add('active');
-}
-
-function prevSlide() {
-    showSlide(slideIndex -= 1);
+    slides[index].classList.add('active');
 }
 
 function nextSlide() {
-    showSlide(slideIndex += 1);
+    currentSlide = (currentSlide + 1) % slides.length;
+    showSlide(currentSlide);
 }
 
-// Automatic slideshow
-setInterval(nextSlide, 5000);
+function prevSlide() {
+    currentSlide = (currentSlide - 1 + slides.length) % slides.length;
+    showSlide(currentSlide);
+}
+
+// Mostrar o primeiro slide ao carregar a página
+showSlide(currentSlide);
+
+// Trocar de slide a cada 7 segundos
+setInterval(nextSlide, 7000);

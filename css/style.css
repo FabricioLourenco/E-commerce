@@ -9,6 +9,7 @@
 
 :root {
     --header-footer-height: 60px;
+    --spacing: 20px;
     --bg-color: var(--bg-color) #1d2631;
     --text-color: #fff;
     --main-color: #34e7f8;
@@ -23,6 +24,8 @@ html {
 
 body {
     background-color: #1d2631;
+    background: url('https://img.freepik.com/fotos-premium/imagens-de-design-de-fundo-abstrato-papel-de-parede-gerado-por-ia_643360-133228.jpg') no-repeat center center fixed;
+    background-size: cover;
     color: var(--text-color);
     display: flex;
     flex-direction: column;
@@ -40,16 +43,17 @@ header {
     justify-content: space-between;
     padding: 0px 0px;
     height: var(--header-footer-height);
+    margin-bottom: var(--spacing);
 }
 
 main {
     flex: 1;
-    padding: 20px;
     width: 100%;
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
-    margin-top: var(--header-footer-height);
+
+    margin-bottom: var(--spacing);
 }
 
 footer {
@@ -59,6 +63,7 @@ footer {
     align-items: center;
     justify-content: center;
     width: 100%;
+
 }
 
 main li img {

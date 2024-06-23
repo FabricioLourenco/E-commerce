@@ -1,9 +1,3 @@
-.main-content {
-    display: flex;
-    width: 100%;
-    flex-direction: column;
-}
-
 .home {
     position: relative;
     display: flex;
@@ -11,61 +5,91 @@
     align-items: center;
     background-color: cadetblue;
     width: 100%;
-    min-height: 500px;
+    min-height: 700px;
     overflow: hidden;
-    /* Para esconder os slides que não estão sendo exibidos */
-    position: relative;
 }
 
 .carrosel-slide {
-
-    /* Inicialmente esconde todos os slides */
-    justify-content: center;
-    align-items: center;
-    background-color: rebeccapurple;
+    display: none;
+    position: absolute;
     width: 100%;
     height: 100%;
-    position: absolute;
-    /* Para posicionar os slides em cima uns dos outros */
-    top: 0;
-    left: 0;
 }
 
 .carrosel-slide.active {
-    display: flex;
-    /* Exibe o slide ativo */
+    display: block;
 }
 
-.prev,
-.next {
+#slide1 {
+    background-color: red;
+    background-image: url('https://images7.alphacoders.com/129/thumb-1920-1294811.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#slide2 {
+    background-color: blue;
+    background-image: url('https://wallpapercave.com/wp/wp10466964.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+#slide3 {
+    background-color: green;
+    background-image: url('https://wallpapers.com/images/hd/mtg-background-0uipikeqccvzh53a.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+#slide4 {
+    background-color: yellow;
+    background-image: url('https://wallpaper.forfun.com/fetch/ed/ede24dec55e319e15e7e08e094d6587c.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+#slide5 {
+    background-color: magenta;
+    background-image: url('https://pbs.twimg.com/media/F2nL_qXbsAAQAAS?format=jpg&name=4096x4096');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+button.prev,
+button.next {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background: rgba(255, 255, 255, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
     border: none;
     padding: 10px;
-    font-size: 18px;
     cursor: pointer;
-    z-index: 1;
+    z-index: 10;
 }
 
-.prev {
+button.prev {
     left: 10px;
 }
 
-.next {
+button.next {
     right: 10px;
 }
-
-
-
-
 
 .novidades {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: goldenrod;
+    /* background-color: goldenrod; */
     width: 100%;
     min-height: 500px;
 }
@@ -74,7 +98,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: violet;
+    /* background-color: violet; */
     width: 100%;
     min-height: 500px;
 
@@ -84,37 +108,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: blue;
+    /* background-color: blue; */
     width: 100%;
     min-height: 500px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .pacotes ul {
     display: flex;
