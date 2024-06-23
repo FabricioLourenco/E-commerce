@@ -20,6 +20,58 @@
     display: block;
 }
 
+.carrosel-slide .content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+
+.custom-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background: linear-gradient(#aa96a6, #bc121b);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+    margin-top: 10px;
+}
+
+.custom-button:hover {
+    background: linear-gradient(#bc121b, #aa96a6);
+}
+
+#content-slide1 {
+    max-width: 500px;
+    height: auto;
+}
+
+#content-slide2 {
+    max-width: 300px;
+    height: auto;
+}
+
+#content-slide3 {
+    max-width: 300px;
+    height: auto;
+}
+
+#content-slide4 {
+    max-width: 400px;
+    height: auto;
+}
+
+#content-slide5 {
+    max-width: 300px;
+    height: auto;
+}
+
 #slide1 {
     background-color: red;
     background-image: url('https://images7.alphacoders.com/129/thumb-1920-1294811.jpg');
