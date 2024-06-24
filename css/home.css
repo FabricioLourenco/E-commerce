@@ -73,7 +73,6 @@
 }
 
 #slide1 {
-    background-color: red;
     background-image: url('https://images7.alphacoders.com/129/thumb-1920-1294811.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -81,7 +80,6 @@
 }
 
 #slide2 {
-    background-color: blue;
     background-image: url('https://wallpapercave.com/wp/wp10466964.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -90,7 +88,6 @@
 }
 
 #slide3 {
-    background-color: green;
     background-image: url('https://wallpapers.com/images/hd/mtg-background-0uipikeqccvzh53a.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -99,7 +96,6 @@
 }
 
 #slide4 {
-    background-color: yellow;
     background-image: url('https://wallpaper.forfun.com/fetch/ed/ede24dec55e319e15e7e08e094d6587c.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -108,7 +104,6 @@
 }
 
 #slide5 {
-    background-color: magenta;
     background-image: url('https://pbs.twimg.com/media/F2nL_qXbsAAQAAS?format=jpg&name=4096x4096');
     background-size: cover;
     background-repeat: no-repeat;

@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('../json/yugioh.json')
+    fetch('../json/magic.json')
         .then(response => response.json())
         .then(data => {
             const productList = document.getElementById('product-list');

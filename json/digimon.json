@@ -1,0 +1,144 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 2,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 3,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 4,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 5,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 6,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 7,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 8,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 9,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 10,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 11,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 12,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 13,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 14,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 15,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 16,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 17,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 18,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 19,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        },
+        {
+            "id": 20,
+            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
+            "name": "Veemon",
+            "price": 5.72,
+            "stock": 10
+        }
+    ]
+}
