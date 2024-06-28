@@ -1,0 +1,136 @@
+#compras {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    background-color: saddlebrown
+}
+
+#carrinho {
+    display: flex;
+    margin-top: 20px;
+    padding-top: 10px;
+    width: 80%;
+    background-color: brown;
+
+}
+
+#valores {
+    flex: 1;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: olive;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#valores h1 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+#total-final {
+    font-size: 1.3em;
+    margin-bottom: 10px;
+}
+
+#finalizar-compra {
+    background-color: #09737c;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+#finalizar-compra:hover {
+    background-color: #34e7f8;
+}
+
+
+.cart-item {
+    background-color: rgba(128, 128, 128, 0.2);
+    border: 1px solid rgba(128, 128, 128, 0.5);
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    padding: 10px;
+    max-width: 200px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: bisque;
+}
+
+.cart-item-image {
+    background-color: blue;
+    max-width: 100%;
+    border-radius: 8px;
+    height: auto;
+    max-height: 250px;
+    flex: 1;
+    /* Faz com que ocupe metade do espaço disponível */
+}
+
+
+.cart-item-details {
+    background-color: rgba(128, 128, 128, 0.2);
+    border: 1px solid rgba(128, 128, 128, 0.5);
+    border-radius: 8px;
+    padding: 10px;
+    /* Aumentei o padding para melhor visualização */
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+    position: relative;
+    /* Adicionado para posicionamento absoluto do botão */
+}
+
+.cart-item-name {
+    font-size: 1em;
+    margin: 5px 0;
+    background-color: #09737c;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    text-overflow: ellipsis;
+    /* Mostra reticências (...) quando o texto é cortado */
+}
+
+.cart-item-stock {
+    font-size: 0.8em;
+    color: wheat;
+    margin: 5px 0;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: yellow;
+}
+
+.cart-item-price {
+    font-size: 1.3em;
+    color: white;
+    margin: 5px 0;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rebeccapurple;
+}
+
+.remove-from-cart {
+    background-color: #09737c;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 0.9em;
+}
+
+.remove-from-cart:hover {
+    background-color: #34e7f8;
+}

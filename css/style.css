@@ -51,7 +51,6 @@ main {
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
-    margin-bottom: var(--spacing);
 }
 
 footer {
@@ -61,7 +60,7 @@ footer {
     align-items: center;
     justify-content: center;
     width: 100%;
-
+    background-color: pink
 }
 
 main li img {

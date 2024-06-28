@@ -1,15 +1,7 @@
-.main {
-    margin-top: 30px;
-    margin-bottom: 10px;
-}
-
 .product-list {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin-top: 20px;
-    /* Adiciona espaço no topo da div */
-    padding-top: 20px;
 }
 
 .product-card {

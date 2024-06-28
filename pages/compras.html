@@ -13,6 +13,7 @@
         rel="stylesheet">
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="../css/home.css">
+    <link rel="stylesheet" href="../css/compras.css">
 
     <title>Reino TCG</title>
     <script src="../js/pouchDb.js" defer></script>
@@ -43,10 +44,20 @@
     </header>
 
     <main>
-        <section>
-            <h1>Compras</h1>
-            <p>Conteúdo específico da página Compras.</p>
-        </section>
+        <div id="compras">
+            <div id="carrinho">
+                <!-- Produtos do carrinho serão listados aqui -->
+            </div>
+            <div id="valores">
+                <h1>Carrinho de Compras</h1>
+                <!-- Detalhes de cada produto serão listados aqui -->
+                <div id="detalhes-produtos">
+                    <!-- Os detalhes dos produtos serão inseridos dinamicamente pelo JavaScript -->
+                </div>
+                <p id="total-final">Total Final: R$ 0,00</p>
+                <button id="finalizar-compra" onclick="finalizarCompra()">Finalizar Compra</button>
+            </div>
+        </div>
     </main>
 
     <footer>
@@ -55,6 +66,7 @@
         </div>
     </footer>
     <script src="../js/script.js"></script>
+    <script src="../js/compras.js"></script>
 </body>
 
 </html>

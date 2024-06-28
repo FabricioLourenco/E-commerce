@@ -1,142 +1,162 @@
 {
     "products": [
         {
-            "id": 1,
+            "id": 41,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 2,
+            "id": 42,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 3,
+            "id": 43,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 4,
+            "id": 44,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 5,
+            "id": 45,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 6,
+            "id": 46,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 7,
+            "id": 47,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 8,
+            "id": 48,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 9,
+            "id": 49,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 10,
+            "id": 50,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 11,
+            "id": 51,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 12,
+            "id": 52,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 13,
+            "id": 53,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 14,
+            "id": 54,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 15,
+            "id": 55,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 16,
+            "id": 56,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 17,
+            "id": 57,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 18,
+            "id": 58,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 19,
+            "id": 59,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         },
         {
-            "id": 20,
+            "id": 60,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
             "price": 22.47,
             "stock": 10
         }

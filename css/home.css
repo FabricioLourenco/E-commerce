@@ -216,7 +216,6 @@ button.next {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: violet;
     width: 100%;
     min-height: 500px;
 
@@ -226,7 +225,7 @@ button.next {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background-color: blue; */
+    background-color: rebeccapurple;
     width: 100%;
     min-height: 500px;
 }

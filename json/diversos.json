@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 101,
+            "image": "https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg",
+            "name": "Vegeta",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
+            "price": 12.55,
+            "stock": 10
+        },
+        {
+            "id": 102,
+            "image": "https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg",
+            "name": "Vegeta",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
+            "price": 12.55,
+            "stock": 10
+        },
+        {
+            "id": 103,
+            "image": "https://img.mypcards.com/img/1/30/magic_mt_024/magic_mt_024_pt.jpg",
+            "name": "Vegeta",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
+            "price": 12.55,
+            "stock": 10
+        },
+        {
+            "id": 104,
+            "image": "https://img.mypcards.com/img/9/1665/digimon_p_050/digimon_p_050_en.jpg",
+            "name": "Vegeta",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
+            "price": 12.55,
+            "stock": 10
+        },
+        {
+            "id": 105,
+            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
+            "name": "Vegeta",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
+            "price": 12.55,
+            "stock": 10
+        },
+        {
+            "id": 106,
+            "image": "https://img.mypcards.com/img/6/1153/dbsuper_tb1_001/dbsuper_tb1_001_en.jpg",
+            "name": "Vegeta",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
+            "price": 12.55,
+            "stock": 10
+        },
+        {
+            "id": 107,
+            "image": "https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg",
+            "name": "Vegeta",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
+            "price": 12.55,
+            "stock": 10
+        },
+        {
+            "id": 108,
+            "image": "https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg",
+            "name": "Vegeta",
+            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
+            "price": 12.55,
+            "stock": 10
+        }
+    ]
+}
