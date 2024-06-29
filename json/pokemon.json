@@ -2,163 +2,163 @@
     "products": [
         {
             "id": 21,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
+            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg24_159/pokemon_crz_gg24_159_en.jpg",
+            "name": "Miltank",
+            "description": "Ability: Corpo Milagroso Previna todo o dano causado a este Pokémon por ataques dos Pokémon V do seu oponente.",
+            "price": 6.85,
             "stock": 10
         },
         {
             "id": 22,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/1768/pokemon_mcd22_015_15/pokemon_mcd22_015_15_en.jpg",
+            "name": "Smeargle",
+            "description": "30+ Revele qualquer número de cartas de Energia básica da sua mão. Este ataque causa 30 de dano a mais para cada tipo de Energia básica que você revelou desta forma.",
+            "price": 20.38,
+            "stock": 36
         },
         {
             "id": 23,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/2060/pokemon_pps_068_195/pokemon_pps_068_195_en.jpg",
+            "name": "Kirlia",
+            "description": "Habilidade — Refinamento Você deve descartar uma carta de sua mão para usar esta Habilidade. Uma vez durante o seu turno, você pode comprar 2 cartas.",
+            "price": 0.69,
+            "stock": 22
         },
         {
             "id": 24,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/2120/pokemon_twm_173_167/pokemon_twm_173_167_pt.jpg",
+            "name": "Infernape",
+            "description": "Dança Incendiária: Uma vez durante o seu turno, você poderá ligar uma carta de Energia {R} Básica, uma carta de Energia {F} Básica ou 1 de cada da sua mão aos seus Pokémon como desejar.",
+            "price": 31.45,
+            "stock": 7
         },
         {
             "id": 25,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/2098/pokemon_tef_012_162/pokemon_tef_012_162_pt.jpg",
+            "name": "Torterra ex",
+            "description": "GRASS Marcha Florestal: Este ataque causa 30 pontos de dano para cada um dos seus Pokémon {G} em jogo.",
+            "price": 2.25,
+            "stock": 24
         },
         {
             "id": 26,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
+            "image": "https://img.mypcards.com/img/2/2098/pokemon_tef_109_162/pokemon_tef_109_162_pt.jpg",
+            "name": "Lua Estrondo",
+            "description": "DARKNESS, DARKNESS Flechas da Vingança: Este ataque causa 10 pontos de dano a mais para cada carta Ancestral na sua pilha de descarte. DARKNESS, COLORLESS, COLORLESS, COLORLESS Asa da Velocidade:",
+            "price": 1.15,
             "stock": 10
         },
         {
             "id": 27,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
+            "image": "https://img.mypcards.com/img/2/204/pokemon_pr_sm_sm76/pokemon_pr_sm_sm76_en.jpg",
             "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
-            "stock": 10
+            "description": "Onda de Trovão: . Jogue 1 moeda. Se sair cara, o Pokémon Ativo do seu oponente será Paralisado.",
+            "price": 9.15,
+            "stock": 15
         },
         {
             "id": 28,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/2120/pokemon_twm_106_167/pokemon_twm_106_167_pt.jpg",
+            "name": "Greninja ex",
+            "description": "Tera: Enquanto este Pokémon estiver no seu Banco, previna todo o dano causado a este Pokémon por ataques (seus e do seu oponente).",
+            "price": 6.45,
+            "stock": 43
         },
         {
             "id": 29,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/2098/pokemon_tef_038_162/pokemon_tef_038_162_en.jpg",
+            "name": "Fogo Corrosão ex",
+            "description": "FIRE, FIRE, COLORLESS Avanço Incendiário: Este Pokémon não poderá usar Avanço Incendiário novamente até sair do Campo Ativo.",
+            "price": 2.95,
+            "stock": 17
         },
         {
             "id": 30,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg50_159/pokemon_crz_gg50_159_en.jpg",
+            "name": "Darkrai V-ASTRO",
+            "description": "Pulso Sombrio: 30+ damage. Este ataque causa 30 pontos de dano a mais para cada Energia ligada a todos os seus Pokémon.",
+            "price": 89.50,
+            "stock": 4
         },
         {
             "id": 31,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/2060/pokemon_pps_050_196/pokemon_pps_050_196_en-1716393755.jpeg",
+            "name": "Cramorant",
+            "description": "Habilidade — Provisões Perdidas Se você tiver 4 ou mais cartas na Zona Perdida, ignore toda a Energia nos custos de ataque deste Pokémon.",
+            "price": 4.25,
+            "stock": 16
         },
         {
             "id": 32,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/2098/pokemon_tef_181_162/pokemon_tef_181_162_pt.jpg",
+            "name": "Chatot",
+            "description": "COLORLESS A Cappella: Procure por até 3 Pokémon Básicos no seu baralho e coloque-os no seu Banco. Em seguida, embaralhe o seu baralho. COLORLESS Lufada de Vento:",
+            "price": 10.05,
+            "stock": 22
         },
         {
             "id": 33,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/1589/pokemon_evs_214_203/pokemon_evs_214_203_pt.jpg",
+            "name": "Umbreon VMAX",
+            "description": "Habilidade: Sinal Escuro Quando você joga este Pokémon da sua mão para evoluir 1 dos seus Pokémon durante o seu turno, você pode trocar 1 dos Pokémon no Banco do seu oponente pelo Pokémon Ativo dele.",
+            "price": 284.75,
+            "stock": 3
         },
         {
             "id": 34,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/2120/pokemon_twm_080_167/pokemon_twm_080_167_pt.jpg",
+            "name": "Abra",
+            "description": "Teletransportar: Uma vez durante o seu turno, se este Pokémon estiver no Campo Ativo, você poderá embaralhá-lo e todas as cartas ligadas a ele no seu baralho.",
+            "price": 0.38,
+            "stock": 18
         },
         {
             "id": 35,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/2120/pokemon_twm_208_167/pokemon_twm_208_167_pt.jpg",
+            "name": "Lucian",
+            "description": "Cada jogador embaralha a própria mão e coloca-a como as cartas de baixo do próprio baralho. Se qualquer um dos jogadores tiver colocado qualquer carta como a carta de baixo do próprio baralho desta forma, cada jogador jogará uma moeda. Se sair cara, aquele jogador comprará 6 cartas. Se sair coroa, ele comprará 3 cartas. Você só pode jogar 1 carta de Apoiador durante o seu turno.",
+            "price": 4.85,
+            "stock": 26
         },
         {
             "id": 36,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/2098/pokemon_tef_153_162/pokemon_tef_153_162_pt.jpg",
+            "name": "Bola Mestra",
+            "description": "Você não pode ter mais de 1 carta ACE SPEC no seu baralho. Procure por um Pokémon no seu baralho, revele-o e coloque-o na sua mão. Em seguida, embaralhe o seu baralho. Você pode jogar quantas cartas de Item quiser durante o seu turno.",
+            "price": 11.10,
+            "stock": 43
         },
         {
             "id": 37,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/2098/pokemon_tef_113_162/pokemon_tef_113_162_pt.jpg",
+            "name": "Beldum",
+            "description": "METAL, COLORLESS, COLORLESS Golpe de Colisão Férreo: Este Pokémon também causa 10 pontos de dano a si mesmo.",
+            "price": 0.20,
+            "stock": 23
         },
         {
             "id": 38,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/1839/pokemon_sv2_271_193/pokemon_sv2_271_193_en.jpg",
+            "name": "Meowscarada ex",
+            "description": "Habilidade: Buquê Mágico Você deve descartar uma carta de Energia Básica da sua mão para usar esta Habilidade. Uma vez durante o seu turno, você pode colocar 3 contadores de dano em 1 dos Pokémon no Banco do seu oponente.",
+            "price": 24.75,
+            "stock": 27
         },
         {
             "id": 39,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg40_159/pokemon_crz_gg40_159_en.jpg",
+            "name": "Glaceon V-ASTRO",
+            "description": "Disparo Congelado: 180 damage. Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
+            "price": 250.55,
+            "stock": 12
         },
         {
             "id": 40,
-            "image": "https://img.mypcards.com/img/2/1769/pokemon_crz_gg30_159/pokemon_crz_gg30_159_en.jpg",
-            "name": "Pikachu",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.38,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/1616/pokemon_fst_271_264/pokemon_fst_271_264_pt.jpg",
+            "name": "Gengar VMAX",
+            "description": "Terror e Pânico: 60x damage. Este ataque causa 60 pontos de dano para cada Pokémon V e Pokémon-GX do seu oponente em jogo.",
+            "price": 889.38,
+            "stock": 2
         }
     ]
 }
