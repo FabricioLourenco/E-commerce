@@ -4,161 +4,161 @@
             "id": 41,
             "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
             "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
+            "description": "Criatura Lendária — Avatar Demônio Atropelar Quando uma criatura lendária que um oponente controla morrer, coloque O Balrog, Chama de Udûn, no fundo do grimório de seu dono.",
             "price": 22.47,
             "stock": 10
         },
         {
             "id": 42,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/2111/magic_otj_173/magic_otj_173_en.jpg",
+            "name": "Desbravadora Renegada",
+            "description": "Quando Outcaster Trailblazer entrar no campo de batalha, adicione um mana de qualquer cor. Toda vez que outra criatura com poder igual ou superior a 4 entrar no campo de batalha sob seu controle, compre um card. Traçar (Você pode pagar e exilar este card de sua mão. Conjure-o como um feitiço em um turno posterior, sem pagar seu custo de mana. Trate apenas como um feitiço.)",
+            "price": 15.49,
+            "stock": 17
         },
         {
             "id": 43,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/14/magic_gtc_159/magic_gtc_159_pt.jpg",
+            "name": "Vidente do Manto do Crepúsculo",
+            "description": "VoarNo início de sua manutenção, cada jogador revela o card do topo do próprio grimório, perde uma quantidade de pontos de vida igual ao custo de mana convertido do card e depois o coloca na própria mão.",
+            "price": 1.65,
+            "stock": 24
         },
         {
             "id": 44,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/1332/magic_cmr_101/magic_cmr_101_en.jpg",
+            "name": "Planejamento Estratégico",
+            "description": "Veja os três primeiros cards do seu grimório. Coloque um deles em sua mão e o restante em seu cemitério.",
+            "price": 0.49,
+            "stock": 31
         },
         {
             "id": 45,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/105/magic_ema_231/magic_ema_231_en.jpg",
+            "name": "Relíquia de Progenitus",
+            "description": "O jogador alvo exila um card de seu cemitério, Exile Relic of Progenitus: Exile todos os cards de todos os cemitérios. Compre uma carta.",
+            "price": 26.55,
+            "stock": 42
         },
         {
             "id": 46,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/1765/magic_one_196/magic_one_196_pt.jpg",
+            "name": "Atraxa, Grande Unificadora",
+            "description": "Criatura Lendária — Phyrexiano Anjo Voar, vigilância, toque mortífero, vínculo com a vida Quando Atraxa, Grande Unificadora, entrar no campo de batalha, revele os dez cards do topo de seu grimório. Para cada tipo de card, você pode colocar em sua mão um card daquele tipo dentre os cards revelados. Coloque o restante no fundo de seu grimório em ordem aleatória. (Artefato, batalha, criatura, encantamento, mágica instantânea, terreno, planeswalker e feitiço são tipos de card.)",
+            "price": 82.40,
+            "stock": 13
         },
         {
             "id": 47,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/1122/magic_war_061/magic_war_061_pt.jpg",
+            "name": "Narset, Rasgadora de Véus",
+            "description": "Planeswalker Lendário — Narset Cada oponente não pode comprar mais do que um card a cada turno. −2: Olhe os quatro cards do topo do seu grimório. Você pode revelar um card que não seja de criatura nem de terreno dentre eles e colocá‑lo em sua mão. Coloque o restante no fundo de seu grimório em ordem aleatória.",
+            "price": 7.11,
+            "stock": 32
         },
         {
             "id": 48,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/10/magic_jou_093/magic_jou_093_pt.jpg",
+            "name": "Decreto dos Deuses Gêmeos",
+            "description": "Lampejo Se uma fonte for causar dano a uma permanente ou a um jogador, em vez disso, ela causará o dobro daquele dano àquela permanente ou jogador.",
+            "price": 10.69,
+            "stock": 26
         },
         {
             "id": 49,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/1870/magic_woe_202/magic_woe_202_en.jpg",
+            "name": "Eriette da Maçã Enfeitiçada",
+            "description": "Cada criatura encantada por uma Aura que você controla não pode atacar você ou os planeswalkers que você controla. No início de sua etapa final, cada oponente perde X pontos de vida e você ganha X pontos de vida, sendo X o número de Auras que você controla.",
+            "price": 9.17,
+            "stock": 33
         },
         {
             "id": 50,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/1951/magic_rvr_207/magic_rvr_207_pt.jpg",
+            "name": "Niv -o- Mizzet, o Parun",
+            "description": "Criatura Lendária — Dragão Mago Esta mágica não pode ser anulada. Voar Toda vez que você compra um card, Niv-Mizzet, Parun, causa 1 ponto de dano a qualquer alvo. Toda vez que um jogador conjura uma mágica instantânea ou um feitiço, você compra um card.",
+            "price": 6.79,
+            "stock": 24
         },
         {
             "id": 51,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/1634/magic_neo_102p/magic_neo_102p_en.jpg",
+            "name": "Junji, o Céu da Meia-noite",
+            "description": "Voar, ameaçar Quando Junji, o Céu da Meia-Noite, morrer, escolha um — • Cada oponente descarta dois cards e perde 2 pontos de vida. • Coloque o card de criatura alvo que não seja um Dragão de um cemitério no campo de batalha sob seu controle. Você perde 2 pontos de vida.",
+            "price": 40.39,
+            "stock": 43
         },
         {
             "id": 52,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/1788/magic_moc_447/magic_moc_447_pt.jpg",
+            "name": "O Pé-de-limo e Squee",
+            "description": "Criatura Lendária — Fungo Goblin Toda vez que Pé-de-limo e Squee entrar no campo de batalha ou atacar, crie uma ficha de criatura Saprófita verde 1/1. , sacrifique uma Saprófita: Devolva ao campo de batalha Pé-de-limo e Squee e até um outro card de criatura alvo de seu cemitério. Ative somente como um feitiço.",
+            "price": 35.35,
+            "stock": 31
         },
         {
             "id": 53,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/1271/magic_iko_066/magic_iko_066_pt.jpg",
+            "name": "O Polvo Flecha-do-mar",
+            "description": "Criatura — Polvo Mutação (Se você conjurar esta mágica pelo custo de mutação, coloque-a sobre ou sob a criatura alvo que você possui que não seja um Humano. Elas sofrem uma mutação que resulta na criatura de cima com todas as habilidades das criaturas de baixo.) Lampejo Toda vez que esta criatura causar dano de combate a um jogador, compre um card.",
+            "price": 3.61,
+            "stock": 7
         },
         {
             "id": 54,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/1531/magic_stx_086/magic_stx_086_pt.jpg",
+            "name": "Bruxa de Umbrocharco",
+            "description": "Criatura — Humano Bruxo Ameaçar Salvaguarda — Pague 3 pontos de vida. (Toda vez que esta criatura se tornar alvo de uma mágica ou habilidade que um oponente controla, anule-a, a menos que aquele jogador pague 3 pontos de vida.) Magifício — Toda vez que você conjurar ou copiar uma mágica instantânea ou um feitiço, crie uma ficha de criatura Peste preta e verde 1/1 com Quando esta criatura morre, você ganha 1 ponto de vida.",
+            "price": 8.66,
+            "stock": 18
         },
         {
             "id": 55,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/41/magic_rav_107/magic_rav_107_pt.jpg",
+            "name": "Diabrete de Erva Fétida",
+            "description": "Voar Toda vez que Diabrete de Erva Fétida causa dano de combate a uma criatura, destrua aquela criatura. Escavação 5 (Se você for comprar um card, ao invés disso, você pode colocar exatamente cinco cards do topo do seu grimório em seu cemitério. Se o fizer, devolva esse card de seu cemitério para sua mão. Do contrário, compre um card.)",
+            "price": 14.45,
+            "stock": 24
         },
         {
             "id": 56,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/1817/magic_ltc_004/magic_ltc_004_en.jpg",
+            "name": "Sauron, Senhor dos Anéis",
+            "description": "Criatura Lendária — Avatar Horror Quando você conjurar esta mágica, arregimente Orcs 5, triture cinco cards e depois devolva um card de criatura do seu cemitério para o campo de batalha. Atropelar Toda vez que um comandante controlado por um oponente morrer, o Anel tentará você.",
+            "price": 10.55,
+            "stock": 18
         },
         {
             "id": 57,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/2022/magic_mkm_151/magic_mkm_151_en.jpg",
+            "name": "Amuleto do Arquidruida",
+            "description": "Escolha um — • Procure em seu grimório por um card de criatura ou terreno e revele-o. Coloque-o no campo de batalha virado se for um card de terreno. Caso contrário, coloque-o na sua mão. Então embaralhe. • Coloque um marcador +1/+1 na criatura alvo que você controla. Ela causa dano igual ao seu poder à criatura alvo que você não controla. • Exile o artefato ou encantamento alvo.",
+            "price": 45.29,
+            "stock": 24
         },
         {
             "id": 58,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/2022/magic_mkm_136/magic_mkm_136_en.jpg",
+            "name": "Dezzztruidor de Krenko",
+            "description": "Voar, atropelar Quando Buzzcrusher de Krenko entra no campo de batalha, para cada jogador, destrua até um terreno não básico que aquele jogador controla. Para cada terreno destruído dessa maneira, seu controlador pode procurar um card de terreno básico em seu grimório, colocá-lo no campo de batalha virado e depois embaralhar.",
+            "price": 0.75,
+            "stock": 43
         },
         {
             "id": 59,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/2022/magic_mkm_127/magic_mkm_127_en.jpg",
+            "name": "Decodificador Fugitivo",
+            "description": "Destreza, pressa Disfarce. Este custo é reduzido em para cada card de mágica instantânea e de feitiço em seu cemitério. (Você pode conjurar este card com a face voltada para baixo como uma criatura 2/2 com ward . Vire-o com a face para cima a qualquer momento pagando seu custo de disfarce.) Quando Fugitive Codebreaker for virado com a face para cima, descarte sua mão e compre três cards.",
+            "price": 2.69,
+            "stock": 34
         },
         {
             "id": 60,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "O Balrog, Chama de Udûn",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 22.47,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/2022/magic_mkm_067/magic_mkm_067_en.jpg",
+            "name": "Memória Eidética de Proft",
+            "description": "Quando Memória Eidética de Proft entrar no campo de batalha, compre um card. Você não tem tamanho máximo de mão. No início do combate no seu turno, se você comprou mais de um card neste turno, coloque X marcadores +1/+1 na criatura alvo que você controla, sendo X o número de cards que você comprou neste turno menos um .",
+            "price": 9.75,
+            "stock": 12
         }
     ]
 }
