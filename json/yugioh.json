@@ -4,160 +4,160 @@
             "id": 1,
             "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
             "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 25.57,
-            "stock": 10
+            "description": "Este dragão lendário é uma poderosa máquina de destruição. Praticamente invencível, muito poucos enfrentaram esta magnífica criatura e viveram para contar a história.",
+            "price": 28.99,
+            "stock": 42
         },
         {
             "id": 2,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 25.57,
+            "image": "https://img.mypcards.com/img/3/1126/yugioh_ledu-en000/yugioh_ledu-en000_pt.jpg",
+            "name": "Dragão Negro de Olhos Vermelhos",
+            "description": "Um dragão feroz com um ataque letal.",
+            "price": 12.79,
             "stock": 5
         },
         {
             "id": 3,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
+            "image": "https://img.mypcards.com/img/3/2118/yugioh_lede_en092/yugioh_lede_en092_en.jpg",
+            "name": "Veidos, o Dragão da Escuridão Sem Fim",
+            "description": "Veidos, o Dragão de Erupção da Extinção + 2+ monstros Piro de Nível 9 ou menos Não pode ser destruído por efeitos de card e, além disso, seu oponente não pode escolhê-lo como alvo de efeitos de monstro. Se este card for Invocado por Invocação-Fusão: você pode destruir todas as Magias e Armadilhas que seu oponente controla. Quando seu oponente ativar um card ou efeito no campo (Efeito Rápido): você pode enviar 1 card Cinzento(a) com a face para cima que você controla para o Cemitério; destrua esse card. Você só pode usar este efeito de Veidos, o Dragão da Escuridão Sem Fim uma vez por turno.",
             "price": 25.57,
             "stock": 20
         },
         {
             "id": 4,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 25.57,
-            "stock": 20
+            "image": "https://img.mypcards.com/img/3/1615/yugioh_mged_en004/yugioh_mged_en004_en.jpg",
+            "name": "Neos, o HERÓI do Elemento",
+            "description": "Um novo HERÓI Elemental chegou do Neo-Espaço! Quando ele inicia uma fusão de contato com um neoespacial, seus poderes desconhecidos são liberados.",
+            "price": 1.59,
+            "stock": 28
         },
         {
             "id": 5,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 25.57,
-            "stock": 20
+            "image": "https://img.mypcards.com/img/3/2128/yugioh_ra02-en044/yugioh_ra02-en044_en-1716571761.jpeg",
+            "name": "Acessocodificar Transmissor",
+            "description": "2+ Monstros de Efeito Seu oponente não pode ativar cards ou efeitos em resposta às ativações de efeitos deste card. Se este card for Invocado por Invocação-Link: você pode escolher 1 Monstro Link que foi usado como matéria para sua Invocação-Link; este card ganha ATK igual ao Valor Link desse monstro x 1000. Você pode banir 1 Monstro Link do seu campo ou Cemitério; destrua 1 card que seu oponente controla e, além disso, pelo resto deste turno, você não pode banir monstros com o mesmo Atributo para ativar este efeito de Acessocodificar Transmissor.",
+            "price": 7.89,
+            "stock": 19
         },
         {
             "id": 6,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 25.57,
-            "stock": 20
+            "image": "https://img.mypcards.com/img/3/2139/yugioh_bltr_en008/yugioh_bltr_en008_en.jpg",
+            "name": "Domínio Congelado da Barreira de Gelo",
+            "description": "Seu oponente não pode ativar cards ou efeitos em resposta à ativação dos efeitos dos seus monstros Barreira de Gelo. Se um ou mais monstros forem Invocados por Invocação-Especial do Deck Adicional (exceto durante a Etapa de Dano): você pode devolver para a mão, ou embaralhar no Deck, 1 monstro Barreira de Gelo que você controla e, depois, você pode colocar no fundo do Deck 1 card do campo ou de qualquer Cemitério. Você só pode usar este efeito de Domínio Congelado da Barreira de Gelo uma vez por turno. Uma vez por turno, durante sua Fase Final: revele 3 monstros Barreira de Gelo com nomes diferentes no seu Deck Adicional ou destrua este card",
+            "price": 0.55,
+            "stock": 46
         },
         {
             "id": 7,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 25.57,
-            "stock": 20
+            "image": "https://img.mypcards.com/img/3/579/yugioh_ldk2_eny01/yugioh_ldk2_eny01_en.jpg",
+            "name": "O Lendário Exodia Encarnado",
+            "description": "Não pode ser Invocado por Invocação-Normal/Baixado. Você deve Invocá-lo por Invocação-Especial (da sua mão) ao oferecer como Tributo 1 monstro O Proibido e não pode Invocá-lo por Invocação-Especial de nenhuma outra forma. Este card ganha 1000 de ATK para cada monstro O Proibido no seu Cemitério. Não é afetado por outros efeitos de cards. Uma vez por turno, durante sua Fase Final: adicione 1 monstro O Proibido do seu Cemitério à sua mão. Quando este card for destruído em batalha e enviado para o Cemitério: você pode revelar qualquer número de monstros O Proibido na sua mão e, se isso acontecer, compre 1 card para cada",
+            "price": 7.35,
+            "stock": 22
         },
         {
             "id": 8,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
+            "image": "https://img.mypcards.com/img/3/2118/yugioh_lede_en043/yugioh_lede_en043_en.jpg",
+            "name": "Minerva, a Luminosa Ateniense",
+            "description": "1 Regulador + 1+ monstros não-Reguladores Monstros Luminoso(a) que você controla não podem ser banidos por efeitos de card. Você só pode usar cada um dos seguintes efeitos de Minerva, a Luminosa Ateniense uma vez por turno. Se este card for Invocado por Invocação-Sincro: você pode enviar monstros Luminoso(a) com Tipos diferentes do seu Deck para o Cemitério, até o número de monstros Luminoso(a) usados como matéria para este card. Você pode banir até 4 monstros Luminoso(a) do seu Cemitério; envie esse número de cards do topo do seu Deck para o Cemitério.",
             "price": 25.57,
             "stock": 20
         },
         {
             "id": 9,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 25.57,
-            "stock": 20
+            "image": "https://img.mypcards.com/img/3/1029/yugioh_mp17-en013/yugioh_mp17-en013_en.jpg",
+            "name": "A Pedra Branca dos Antigos",
+            "description": "Uma vez por turno, durante a Fase Final, se este card estiver no Cemitério porque foi enviado para lá neste turno: você pode Invocar por Invocação-Especial 1 monstro Olhos Azuis do seu Deck. Você pode banir este card do seu Cemitério e, depois, escolher 1 monstro Olhos Azuis no seu Cemitério; adicione-o à sua mão. Você só pode usar este efeito de A Pedra Branca dos Antigos uma vez por turno.",
+            "price": 11.05,
+            "stock": 34
         },
         {
             "id": 10,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 25.57,
-            "stock": 20
+            "image": "https://img.mypcards.com/img/3/2128/yugioh_ra02_en021/yugioh_ra02_en021_en.jpg",
+            "name": "Dragoon Negro de Olhos Vermelhos",
+            "description": "Mago Negro + Dragão Negro de Olhos Vermelhos ou 1 Monstro de Efeito Dragão Não pode ser destruído por efeitos de card. Nenhum duelista pode escolher este card como alvo de efeitos de card. Durante sua Fase Principal: você pode destruir 1 monstro que seu oponente controla e, se isso acontecer, cause dano ao seu oponente igual ao ATK original desse monstro. Você pode usar este efeito um número de vezes por turno até o número de Monstros Normais usados como Matéria de Fusão para este card. Uma vez por turno, quando um card ou efeito for ativado (Efeito Rápido): você pode descartar 1 card; negue a ativação e, se isso acontecer, destrua esse card e, se isso acontecer, este card ganha 1000 de ATK.",
+            "price": 3.25,
+            "stock": 52
         },
         {
             "id": 11,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 25.58,
-            "stock": 20
+            "image": "https://img.mypcards.com/img/3/2128/yugioh_ra02-en041/yugioh_ra02-en041_en-1716571372.jpeg",
+            "name": "Alma Desacor rentada da Raiva",
+            "description": "2 monstros, incluindo um monstro Alma Desacorrentada Durante a Fase Principal do seu oponente (Efeito Rápido): você pode escolher 1 monstro Invocado por Invocação-Especial com a face para cima que seu oponente controla; imediatamente depois que este efeito resolver, Invoque por Invocação-Link 1 Monstro Link de TREVAS, exceto Alma Desacorrentada da Raiva, usando apenas esse monstro do oponente e este card que você controla como matéria. Se este card no campo for destruído em batalha ou por um efeito de card: você pode escolher 1 monstro Demônio no seu Cemitério, exceto Alma Desacorrentada da Raiva; adicione-o à sua mão. Você só pode usar cada efeito de Alma Desacorrentada da Raiva uma vez por turno. ",
+            "price": 0.59,
+            "stock": 15
         },
         {
             "id": 12,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 25.55,
-            "stock": 20
+            "image": "https://img.mypcards.com/img/3/2118/yugioh_lede_en023/yugioh_lede_en023_en.jpg",
+            "name": "Dragãozinho Luminoso",
+            "description": "Se você tiver um monstro Luminoso(a) no seu Cemitério: você pode Invocar este card por Invocação-Especial da sua mão. Se este card for Invocado por Invocação-Especial: você pode enviar 1 card Luminoso(a) do seu Deck para o Cemitério, exceto Dragãozinho Luminoso. Se este card for enviado para o Cemitério: você pode adicionar 1 monstro Dragão com 3000 de ATK/2600 de DEF do seu Deck à sua mão. Você só pode usar cada efeito de Dragãozinho Luminoso uma vez por turno.",
+            "price": 66.40,
+            "stock": 28
         },
         {
             "id": 13,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 25.54,
-            "stock": 20
+            "image": "https://img.mypcards.com/img/3/2118/yugioh_lede_en016/yugioh_lede_en016_en.jpg",
+            "name": "Dragão Tenpai Paidra",
+            "description": "Se este card for Invocado por Invocação-Normal ou Especial: você pode adicionar à sua mão ou Baixar 1 Magia/Armadilha Sangen do seu Deck. Você só pode usar este efeito de Dragão Tenpai Paidra uma vez por turno. Você não sofre dano de batalha das batalhas envolvendo seus monstros Dragão de FOGO. Uma vez por turno, durante a Fase de Batalha, você pode (Efeito Rápido): imediatamente depois que este efeito resolver, Invocar por Invocação-Sincro usando este card que você controla.",
+            "price": 49.58,
+            "stock": 88
         },
         {
             "id": 14,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 25.53,
-            "stock": 20
+            "image": "https://img.mypcards.com/img/3/2039/yugioh_blc1_en010/yugioh_blc1_en010_en.jpg",
+            "name": "Cyber Lady Harpia Retalhadora",
+            "description": "1 Regulador + 1+ monstros não-Reguladores Para a Invocação-Sincro deste card, você pode considerar 1 monstro Harpia que você controla como um Regulador. O nome deste card se torna Lady Harpia enquanto ele estiver no campo ou no Cemitério. Quando um Card ou efeito de Magia/Armadilha for ativado (exceto durante a Etapa de Dano) (Efeito Rápido): você pode escolher 1 monstro que seu oponente controla ou 1 monstro Harpia que você controla; devolva-o para a mão. Você só pode usar este efeito de Cyber Lady Harpia Retalhadora uma vez por turno.",
+            "price": 13.78,
+            "stock": 13
         },
         {
             "id": 15,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 25.52,
-            "stock": 20
+            "image": "https://img.mypcards.com/img/3/603/yugioh_mdp2-en003/yugioh_mdp2-en003_en.jpg",
+            "name": "Burstinatrix, o HERÓI do Elemento",
+            "description": "Uma manipuladora das chamas que é a única mulher entre os Heróis do Elemento. A sua Explosão de Fogo queima os vilões.",
+            "price": 9.15,
+            "stock": 38
         },
         {
             "id": 16,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 25.51,
-            "stock": 20
+            "image": "https://img.mypcards.com/img/3/1537/yugioh_gftp_en014/yugioh_gftp_en014_en.jpg",
+            "name": "Gênio Loci de Solarsemente",
+            "description": "Esta semente só pode ser colhida da árvore sagrada uma vez a cada mil anos e se tornará o espírito guardião de sua terra mil anos depois.",
+            "price": 3.51,
+            "stock": 14
         },
         {
             "id": 17,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 25.59,
+            "image": "https://img.mypcards.com/img/3/1514/yugioh_sbcb_en063/yugioh_sbcb_en063_en.jpg",
+            "name": "Cabeça para Canhão X",
+            "description": "Um monstro com um poderoso tambor de canhões, capaz de integrar os seus ataques. Ele ataca de muitas maneiras, combinando-se e separando-se de outros monstros.",
+            "price": 4.75,
             "stock": 20
         },
         {
             "id": 18,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 25.57,
-            "stock": 20
+            "image": "https://img.mypcards.com/img/3/576/yugioh_lcjw-en140/yugioh_lcjw-en140_en.png",
+            "name": "Rei Rex de Duas Cabeças",
+            "description": "Um monstro poderoso cujas duas cabeças atacam como uma só.",
+            "price": 5.96,
+            "stock": 22
         },
         {
             "id": 19,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 25.53,
-            "stock": 20
+            "image": "https://img.mypcards.com/img/3/1290/yugioh_ss04_ena02/yugioh_ss04_ena02_en.jpg",
+            "name": "Gaia, o Cavaleiro Impetuoso",
+            "description": "Um cavaleiro com um cavalo que galopa mais rápido que o vento. Sua carga em batalha é de uma força avassaladora.",
+            "price": 15.53,
+            "stock": 46
         },
         {
             "id": 20,
-            "image": "https://img.mypcards.com/img/3/316/yugioh_ct13-en008/yugioh_ct13-en008_pt.jpg",
-            "name": "Dragão Branco de Olhos Azuis",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 25.54,
+            "image": "https://img.mypcards.com/img/3/574/yugioh_lcyw_en004/yugioh_lcyw_en004_en.jpg",
+            "name": "O Presas de patas Prata",
+            "description": "Um lobo da neve que é lindo aos olhos, mas absolutamente letal em combate.",
+            "price": 14.67,
             "stock": 20
         }
     ]
