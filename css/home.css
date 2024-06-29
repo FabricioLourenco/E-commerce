@@ -73,14 +73,14 @@
 }
 
 #slide1 {
-    background-image: url('https://images7.alphacoders.com/129/thumb-1920-1294811.jpg');
+    background-image: url('../assets/carrosel/yugiohCarrosel.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #slide2 {
-    background-image: url('https://wallpapercave.com/wp/wp10466964.jpg');
+    background-image: url('../assets/carrosel/pokemonCarrosel.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -88,7 +88,7 @@
 }
 
 #slide3 {
-    background-image: url('https://wallpapers.com/images/hd/mtg-background-0uipikeqccvzh53a.jpg');
+    background-image: url('../assets/carrosel/magicCarrosel.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -96,7 +96,7 @@
 }
 
 #slide4 {
-    background-image: url('https://wallpaper.forfun.com/fetch/ed/ede24dec55e319e15e7e08e094d6587c.jpeg');
+    background-image: url('../assets/carrosel/digimonCarrosel.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -104,7 +104,7 @@
 }
 
 #slide5 {
-    background-image: url('https://pbs.twimg.com/media/F2nL_qXbsAAQAAS?format=jpg&name=4096x4096');
+    background-image: url('../assets/carrosel/dragonBallCarrosel.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
