@@ -55,12 +55,11 @@ main {
 
 footer {
     height: var(--header-footer-height);
-    border: 2px solid #fff;
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
-    background-color: pink
+    background-color: #333333;
 }
 
 main li img {
