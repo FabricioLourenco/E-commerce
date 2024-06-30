@@ -78,18 +78,18 @@
     background-color: #34e7f8;
 }
 
-.view-product {
+.view-details {
     background-color: #09737c;
     color: white;
     border: none;
     border-radius: 8px;
     padding: 5px 10px;
     cursor: pointer;
-    font-size: 1.3em;
+    font-size: 0.9em;
     margin-top: 5px;
 }
 
-.view-product:hover {
+.view-details:hover {
     background-color: #34e7f8;
 }
 

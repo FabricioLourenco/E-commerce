@@ -2,43 +2,43 @@
     "products": [
         {
             "id": 61,
-            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
-            "name": "Veemon",
+            "image": "https://img.mypcards.com/img/9/1595/digimon_bt5_104/digimon_bt5_104_en.jpg",
+            "name": "O Catastrophe Cannon",
             "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 5.72,
-            "stock": 10
+            "price": 0.99,
+            "stock": 16
         },
         {
             "id": 62,
-            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
-            "name": "Veemon",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 5.72,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/9/1351/digimon_p_039/digimon_p_039_en.jpg",
+            "name": "O Black Memory Boost!",
+            "description": "Revele as 4 primeiras cartas do seu baralho. Adicione 1 carta Digimon preta entre elas à sua mão. Coloque as cartas restantes no fundo do seu baralho em qualquer ordem. Depois, coloque esta carta na sua área de batalha. [Principal] ＜Atraso＞ (Descarte esta carta em sua área de batalha para ativar o efeito abaixo. Você não pode ativar este efeito no turno em que esta carta entra em jogo.) ・Ganhe 2 de memória.",
+            "price": 2.15,
+            "stock": 26
         },
         {
             "id": 63,
-            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
-            "name": "Veemon",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 5.72,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/9/2016/digimon_ex5_ex5_013/digimon_ex5_ex5_013_en.jpg",
+            "name": "Zhuqiaomon Ace oooo",
+            "description": "[[Digivolve] Lv.5 com traço [Deva]: Custo 3] [Mão] [Contador] [Explosão Digivolve] (Um dos seus Digimons pode digivolver nesta carta sem pagar o custo.) [Ao Digievoluir] [Ao atacar ] [Uma vez por turno] Ao excluir 1 Digimon com a característica [Deva] ou 6000 DP ou menos, este Digimon ganha [Segurança A. +1] para o turno. [Ao excluir] Exclua 1 Digimon do seu oponente com o maior DP. Overflow -4 (Quando esta carta se move da área de batalha ou sob uma carta para outra área, perde 4 de memória.)",
+            "price": 0.85,
+            "stock": 12
         },
         {
             "id": 64,
-            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
-            "name": "Veemon",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 5.72,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/9/1712/digimon_bt9_083/digimon_bt9_083_en.jpg",
+            "name": "Omnimon: Merciful Mode",
+            "description": "[Ao Digievoluir] Para cada carta com [Mega] em suas características nas cartas de digivolução deste Digimon, exclua 1 Digimon do seu oponente. Em seguida, coloque 10 cartas do lixo do seu oponente no fundo do baralho dele em qualquer ordem. [Início do seu turno] Destrua a carta do topo deste Digimon. Se fizer isso, jogue fora a carta do topo da pilha de segurança do seu oponente.",
+            "price": 10.82,
+            "stock": 23
         },
         {
             "id": 65,
-            "image": "https://img.mypcards.com/img/9/1911/digimon_rb01_bt3_021/digimon_rb01_bt3_021_en.jpg",
-            "name": "Veemon",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 5.72,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/9/1712/digimon_bt9_111/digimon_bt9_111_en.jpg",
+            "name": "O Alphamon: Ouryuken",
+            "description": "[Ao Digievoluir] Exclua todos os Digimons do seu oponente com o maior custo de jogo.[Fim do seu turno][Uma vez por turno] Você pode devolver até 7 cartas que não sejam Digi-Egg com [X Anticorpo] em suas características das cartas de digivolução deste Digimon para o fundo do seu baralho em qualquer ordem; se fizer isso, ganhe 1 memória para cada cartão devolvido.",
+            "price": 51.19,
+            "stock": 44
         },
         {
             "id": 66,
