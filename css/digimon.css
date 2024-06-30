@@ -63,7 +63,7 @@
     border-radius: 5px;
 }
 
-.add-to-cart {
+.view-details {
     background-color: #09737c;
     color: white;
     border: none;
@@ -74,7 +74,7 @@
     margin-top: 5px;
 }
 
-.add-to-cart:hover {
+.view-details:hover {
     background-color: #34e7f8;
 }
 

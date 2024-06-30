@@ -2,26 +2,43 @@ document.addEventListener('DOMContentLoaded', () => {
     const urlParams = new URLSearchParams(window.location.search);
     const productId = urlParams.get('id');
 
-    fetch('../json/magic.json')
-        .then(response => response.json())
-        .then(data => {
-            const product = data.products.find(p => p.id == productId);
+    const jsonFiles = ['yugioh.json', 'pokemon.json', 'magic.json', 'DragonBall.json', 'digimon.json', 'diversos.json'];
+    let productFound = false;
 
-            if (product) {
-                document.getElementById('produto-imagem').src = product.image;
-                document.getElementById('produto-nome').innerText = product.name;
-                document.getElementById('produto-preco').innerText = `R$ ${product.price.toFixed(2)}`;
-                document.getElementById('produto-descricao').innerText = product.description;
-                document.getElementById('produto-estoque').innerText = `Estoque: ${product.stock}`;
-                document.getElementById('adicionar-carrinho').addEventListener('click', () => {
-                    addToCart(product);
-                    showConfirmationMessage(`Produto "${product.name}" adicionado ao carrinho.`);
-                });
-            } else {
-                console.error('Produto não encontrado.');
-            }
-        })
-        .catch(error => console.error('Erro ao carregar os detalhes do produto:', error));
+    const loadProductDetails = (file) => {
+        return fetch(`../json/${file}`)
+            .then(response => response.json())
+            .then(data => {
+                const product = data.products.find(p => p.id == productId);
+
+                if (product) {
+                    document.getElementById('produto-imagem').src = product.image;
+                    document.getElementById('produto-nome').innerText = product.name;
+                    document.getElementById('produto-preco').innerText = `R$ ${product.price.toFixed(2)}`;
+                    document.getElementById('produto-descricao').innerText = product.description;
+                    document.getElementById('produto-estoque').innerText = `Estoque: ${product.stock}`;
+                    document.getElementById('adicionar-carrinho').addEventListener('click', () => {
+                        addToCart(product);
+                        showConfirmationMessage(`Produto "${product.name}" adicionado ao carrinho.`);
+                    });
+                    productFound = true;
+                }
+            })
+            .catch(error => console.error(`Erro ao carregar os detalhes do produto do arquivo ${file}:`, error));
+    };
+
+    const loadAllProducts = async () => {
+        for (const file of jsonFiles) {
+            await loadProductDetails(file);
+            if (productFound) break;
+        }
+
+        if (!productFound) {
+            console.error('Produto não encontrado em nenhum dos arquivos JSON.');
+        }
+    };
+
+    loadAllProducts();
 });
 
 function addToCart(product) {
