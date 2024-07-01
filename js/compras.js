@@ -46,7 +46,14 @@ function carregarCarrinho() {
 
 function atualizarQuantidade(index, quantidade) {
     let carrinho = JSON.parse(localStorage.getItem('carrinho')) || [];
-    carrinho[index].quantity = parseInt(quantidade);
+    quantidade = parseInt(quantidade);
+
+    if (quantidade <= 0 || quantidade > carrinho[index].stock) {
+        alert(`Quantidade inválida. Estoque disponível: ${carrinho[index].stock}`);
+        return;
+    }
+
+    carrinho[index].quantity = quantidade;
     localStorage.setItem('carrinho', JSON.stringify(carrinho));
     carregarCarrinho(); // Atualiza a visualização do carrinho
 }
