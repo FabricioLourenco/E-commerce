@@ -2,67 +2,67 @@
     "products": [
         {
             "id": 101,
-            "image": "https://img.mypcards.com/img/3/1349/yugioh_mago_en001/yugioh_mago_en001_en.jpg",
-            "name": "Vegeta",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.55,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/9/1712/digimon_bt9_008/digimon_bt9_008_en.jpg",
+            "name": "Agumon (X Antibody)",
+            "description": "[No jogo][Ao Digievoluir] Revele as 3 primeiras cartas do seu baralho. Adicione 1 carta com [Greymon] ou [Omnimon] em seu nome e 1 [X Anticorpo] entre eles à sua mão. Coloque o resto no fundo do seu baralho em qualquer ordem.",
+            "price": 10.65,
+            "stock": 19
         },
         {
             "id": 102,
-            "image": "https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg",
-            "name": "Vegeta",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.55,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/3/1615/yugioh_mged-en-026aa/yugioh_mged-en-026aa_en-1696990462.png",
+            "name": "Dragão da Rosa Negra",
+            "description": "Sem Descrição",
+            "price": 20.99,
+            "stock": 45
         },
         {
             "id": 103,
-            "image": "https://img.mypcards.com/img/1/30/magic_mt_024/magic_mt_024_pt.jpg",
-            "name": "Vegeta",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.55,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/1724/pokemon_lor_199_196/pokemon_lor_199_196_en.jpg",
+            "name": "Aerodactyl -- V-ASTRO",
+            "description": "Mergulho Perdido: 240 damage. Coloque as 3 cartas de cima do seu baralho na Zona Perdida.",
+            "price": 2.78,
+            "stock": 19
         },
         {
             "id": 104,
-            "image": "https://img.mypcards.com/img/9/1665/digimon_p_050/digimon_p_050_en.jpg",
-            "name": "Vegeta",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.55,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/1/2134/magic_mh3_116/magic_mh3_116_pt.jpg",
+            "name": "Detective's -- Phoenix",
+            "description": "Sem Descrição",
+            "price": 22.15,
+            "stock": 34
         },
         {
             "id": 105,
-            "image": "https://img.mypcards.com/img/1/1816/magic_ltr_297/magic_ltr_297_en.jpg",
-            "name": "Vegeta",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.55,
+            "image": "https://img.mypcards.com/img/9/1806/digimon_bt12_072/digimon_bt12_072_en.jpg",
+            "name": "Chaosdramon (X Antibody)",
+            "description": "[Início da sua fase principal] Coloque 1 carta de Digimon com a característica [Ciborgue] ou [Máquina] do seu lixo como a carta de digivolução inferior deste Digimon.[Todos os turnos] Este Digimon ganha todos os efeitos de [Machinedramon] e [Chaosdramon] nas cartas de digivolução deste Digimon.[Todos os turnos][Uma vez por turno] Quando este Digimon for excluído, jogue fora a carta do topo da pilha de segurança do seu oponente.",
+            "price": 1.49,
             "stock": 10
         },
         {
             "id": 106,
-            "image": "https://img.mypcards.com/img/6/1153/dbsuper_tb1_001/dbsuper_tb1_001_en.jpg",
-            "name": "Vegeta",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.55,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/15/2033/dbsf_fb01_fb01_047/dbsf_fb01_fb01_047_en.jpg",
+            "name": "Son Goku --- FB01-047",
+            "description": "[Bloqueador] (Após o ataque de um oponente, você pode mudar esta carta para o Modo de Descanso e mudar o alvo do ataque para esta carta.) [Permanente] [Turno do oponente] Se você tiver 7 ou menos cartas em sua mão, esta carta recebe +10.000 de potência. ",
+            "price": 17.19,
+            "stock": 63
         },
         {
             "id": 107,
-            "image": "https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg",
-            "name": "Vegeta",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
+            "image": "https://img.mypcards.com/img/3/1255/yugioh_sdsh_en049/yugioh_sdsh_en049_en.jpg",
+            "name": "Fusão  --O-- Sombraneco",
+            "description": "Invoque por Invocação-Fusão 1 Monstro de Fusão Sombraneco do seu Deck Adicional, usando monstros da sua mão ou do campo como Matéria de Fusão. Se seu oponente controlar um monstro que foi Invocado por Invocação-Especial do Deck Adicional, você também pode usar monstros do seu Deck como Matéria de Fusão. Você só pode ativar 1 Fusão Sombraneco por turno.",
             "price": 12.55,
             "stock": 10
         },
         {
             "id": 108,
-            "image": "https://img.mypcards.com/img/2/1250/pokemon_swshp_swsh285/pokemon_swshp_swsh285_pt-1682538045.jpg",
-            "name": "Vegeta",
-            "description": "É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta, É uma bela carta ",
-            "price": 12.55,
-            "stock": 10
+            "image": "https://img.mypcards.com/img/2/1791/pokemon_svp_085/pokemon_svp_085_en-1699038678.png",
+            "name": "Pikachu with Grey Felt Hat",
+            "description": "Sem Descrição",
+            "price": 1.79,
+            "stock": 55
         }
     ]
 }

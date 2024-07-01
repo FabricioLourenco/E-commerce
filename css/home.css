@@ -175,11 +175,38 @@ button.next {
 
 }
 
+.anuncio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    width: 100%;
+    border: 1px solid rgba(128, 128, 128, 0.5);
+}
+
+@keyframes moverTexto {
+    0% {
+        transform: translateX(100%);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+.anuncio h2 {
+    overflow: hidden;
+    white-space: nowrap;
+    animation: moverTexto 20s linear infinite;
+    font-size: 24px;
+    color: white;
+    padding: 10px;
+}
+
 .informacoes {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rebeccapurple;
     width: 100%;
     min-height: 500px;
 }
